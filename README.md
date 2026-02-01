@@ -78,21 +78,5 @@ A passionate <b>Full Stack Developer & AI Enthusiast</b> 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanapriya11&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanapriya11&layout=compact&theme=dracula" height="150"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanapriya11&theme=dracula"/>
-</p>
-
----
 
 ⭐ *If you like my work, feel free to star my repositories!*
